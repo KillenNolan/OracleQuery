@@ -1,0 +1,14 @@
+D:\SOFTWARE\DB\OracleQueryNew\bin\Debug\net46\WindowsFormsApp1.exe.config
+D:\SOFTWARE\DB\OracleQueryNew\bin\Debug\net46\WindowsFormsApp1.exe
+D:\SOFTWARE\DB\OracleQueryNew\bin\Debug\net46\WindowsFormsApp1.pdb
+D:\SOFTWARE\DB\OracleQueryNew\bin\Debug\net46\Oracle.ManagedDataAccess.dll
+D:\SOFTWARE\DB\OracleQueryNew\bin\Debug\net46\NPOI.dll
+D:\SOFTWARE\DB\OracleQueryNew\bin\Debug\net46\NPOI.OOXML.dll
+D:\SOFTWARE\DB\OracleQueryNew\bin\Debug\net46\System.Data.dll
+D:\SOFTWARE\DB\OracleQueryNew\bin\Debug\net46\NPOI.OpenXmlFormats.dll
+D:\SOFTWARE\DB\OracleQueryNew\bin\Debug\net46\NPOI.OpenXml4Net.dll
+D:\SOFTWARE\DB\OracleQueryNew\obj\Debug\net46\OracleQueryNew.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\DB\OracleQueryNew\obj\Debug\net46\OracleQueryNew.csproj.CopyComplete
+D:\SOFTWARE\DB\OracleQueryNew\obj\Debug\net46\WindowsFormsApp1.exe
+D:\SOFTWARE\DB\OracleQueryNew\obj\Debug\net46\WindowsFormsApp1.pdb
+D:\SOFTWARE\DB\OracleQueryNew\obj\Debug\net46\OracleQueryNew.csprojAssemblyReference.cache

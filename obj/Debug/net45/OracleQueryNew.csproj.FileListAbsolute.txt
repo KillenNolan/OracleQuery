@@ -1,0 +1,1 @@
+D:\SOFTWARE\DB\OracleQueryNew\obj\Debug\net45\OracleQueryNew.csproj.CoreCompileInputs.cache
